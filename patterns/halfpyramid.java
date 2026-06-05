@@ -8,6 +8,7 @@ public class halfpyramid {
                 System.out.print(j + " ");
             }
             System.out.println();
+            
 
         }
     }
